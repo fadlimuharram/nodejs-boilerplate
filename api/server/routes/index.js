@@ -1,5 +1,4 @@
 import passport from "passport";
-import authRoutes from "./AuthRoutes";
 import BookRoutesPublic from "./public/BookRoutes";
 import BookRoutesPrivate from "./private/BookRoutes";
 import AuthRoutes from "./AuthRoutes";
